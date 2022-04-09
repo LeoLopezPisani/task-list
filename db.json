@@ -1,28 +1,16 @@
 {
-    "tasks": [
-        {
-            "id": 1,
-            "text": "Terminar proyecto integrador Argentina Programa",
-            "day": "10 de abril a las 12:00",
-            "reminder": true
-        },
-        {
-            "id": 2,
-            "text": "Continuar mis estudios en backend",
-            "day": "20 de abril a las 15:00",
-            "reminder": true
-        },
-        {
-            "id": 3,
-            "text": "Avanzar con conocimientos del trabajo",
-            "day": "30 de abril a las 19:00",
-            "reminder": false
-        },
-        {
-            "id": 4,
-            "text": "Leer Tormenta de espadas",
-            "day": "10 de mayo a las 7:00",
-            "reminder": false
-        }
-    ]
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Terminar proyecto integrador Argentina Programa",
+      "day": "10 de abril a las 12:00",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Avanzar con conocimientos del trabajo",
+      "day": "30 de abril a las 19:00",
+      "reminder": false
+    }
+  ]
 }
