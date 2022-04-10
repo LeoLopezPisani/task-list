@@ -11,6 +11,12 @@
       "text": "Avanzar con conocimientos del trabajo",
       "day": "30 de abril a las 19:00",
       "reminder": false
+    },
+    {
+      "text": "Kinesiología",
+      "day": "Martes 12 de abril 12 hs",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
